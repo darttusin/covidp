@@ -1,0 +1,98 @@
+body {
+    margin:0;
+}
+#text {
+    top: 455px;
+    left: 1000px;
+    position: absolute;
+    font-size: 150px;
+    font-family: 'Goldman', cursive;
+    color:red;
+}
+#text2 {
+    top: 930px;
+    left: 1000px;
+    position: absolute;
+    font-size: 150px;
+    font-family: 'Goldman', cursive;
+    color:black;
+}
+#text3 {
+    top: 1100px;
+    left: 1050px;
+    position: absolute;
+    font-size: 40px;
+    font-family: 'Roboto', sans-serif;
+    color:black;
+}
+#follow {
+    top: 1930px; 
+    left: 600px;
+    position: absolute;
+    font-size: 100px;
+    font-family: 'Roboto Slab', serif;
+    color:white;
+    text-align: center;
+    border:solid white;
+    padding:50px;
+}
+#title1 {
+    top: 2665px;
+    left: 275px;
+    position: absolute;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color:red;
+}
+#title2 {
+    top: 2665px;
+    left: 1000px;
+    position: absolute;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color:red;
+}
+#title2-0 {
+    top: 2735px;
+    left: 1100px;
+    position: absolute;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color:red;
+}
+#title3 {
+    top: 2665px;
+    left: 1900px;
+    position: absolute;
+    font-size: 60px;
+    font-family: 'Roboto', sans-serif;
+    color:red;
+}
+#text11 {
+    top:2870px;
+    left:270px;
+    position: absolute;
+    font-size:40px;
+    font-family: 'Roboto', sans-serif;
+}
+#text22 {
+    top:2870px;
+    left:1000px;
+    position: absolute;
+    font-size:40px;
+    font-family: 'Roboto', sans-serif;
+}
+#text33 {
+    top:2870px;
+    left:1900px;
+    position: absolute;
+    font-size:40px;
+    font-family: 'Roboto', sans-serif;
+}
+#zakl {
+    top:3200px;
+    left:1080px;
+    position: absolute;
+    font-size:50px;
+    font-family: 'Goldman', cursive;
+}
